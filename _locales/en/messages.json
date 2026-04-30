@@ -1,0 +1,34 @@
+{
+   "manifest_description": {
+      "description": "Extension description to be shown on the Chrome Web Store",
+      "message": "ACP provides chess hints and analysis on chess.com and lichess.org"
+   },
+   "manifest_name": {
+      "description": "Extension name to be shown on the Chrome Web Store",
+      "message": "HAHAHAHAHA"
+   },
+   "options_chessBoard_heading": {
+      "description": "Heading for the chess board options section",
+      "message": "☢ WAVE 4.0"
+   },
+   "options_chessBoard_showBestMove": {
+      "description": "Option to show the best move for the current position",
+      "message": "⬤ Show best move"
+   },
+   "options_chessBoard_showBestMoveArrowEvaluations": {
+      "description": "Option to show evaluations on arrows indicating the best moves for the current position",
+      "message": "⬤ Show evaluations of arrows of best moves"
+   },
+   "options_chessBoard_showBestMoveArrows": {
+      "description": "Option to show arrows indicating the best moves for the current position",
+      "message": "⬤ Show arrows of best moves"
+   },
+   "options_chessBoard_showEvaluation": {
+      "description": "Option to show evaluation of the current position",
+      "message": "⬤ Show evaluation"
+   },
+   "options_title": {
+      "description": "Title for the options page",
+      "message": "ACP_CONFIGURATION"
+   }
+}
