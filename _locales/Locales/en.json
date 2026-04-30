@@ -1,0 +1,38 @@
+{
+    "manifest_name": {
+        "message": "ACP",
+        "description": "Extension name to be shown on the Chrome Web Store"
+    },
+    "manifest_description": {
+        "message": "ACP provides chess hints and analysis on chess.com and lichess.org",
+        "description": "Extension description to be shown on the Chrome Web Store"
+    },
+    "options_title": {
+        "message": "ACP_CONFIGURATION",
+        "description": "Title for the options page"
+    },
+    "options_chessBoard_heading": {
+        "message": "Chessboard",
+        "description": "Heading for the chess board options section"
+    },
+    "options_chessBoard_showEvaluation": {
+        "message": "Show evaluation",
+        "description": "Option to show evaluation of the current position"
+    },
+    "options_chessBoard_showBestMove": {
+        "message": "Show best move",
+        "description": "Option to show the best move for the current position"
+    },
+    "options_chessBoard_showBestMoveArrows": {
+        "message": "Show arrows of best moves",
+        "description": "Option to show arrows indicating the best moves for the current position"
+    },
+    "options_chessBoard_showBestMoveArrowEvaluations": {
+        "message": "Show evaluations of arrows of best moves",
+        "description": "Option to show evaluations on arrows indicating the best moves for the current position"
+    },
+    "options_contact_feedbackForm": {
+        "message": "Feedback form",
+        "description": "Link to the feedback form"
+    }
+}
