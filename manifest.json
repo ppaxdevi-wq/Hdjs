@@ -1,0 +1,39 @@
+{
+   "action": {
+      "default_icon": {
+         "192": "icon.png"
+      },
+      "default_title": "ACP-IV"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://*.chess.com/*", "https://www.c4355.com/*", "https://www.justdoinghomework.com/*", "https://www.superhardalgebraproblems.com/*", "https://www.schoolschoolschool.com/*", "https://www.pleasedontblockchess.com/*" ]
+   }, {
+      "css": [ "content.css", "lichess.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://*.lichess.org/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "Chess program overlay that can overlay best move arrows with eval on chesscom and lichess  -Dev, parmar",
+   "host_permissions": [ "https://*.chess.com/*", "https://www.c4355.com/*", "https://www.justdoinghomework.com/*", "https://www.superhardalgebraproblems.com/*", "https://www.schoolschoolschool.com/*", "https://www.pleasedontblockchess.com/*", "https://*.lichess.org/*" ],
+   "icons": {
+      "192": "icon.png"
+   },
+   "manifest_version": 3,
+   "name": "ACP-IV",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.chess.com/*", "https://www.c4355.com/*", "https://www.justdoinghomework.com/*", "https://www.superhardalgebraproblems.com/*", "https://www.schoolschoolschool.com/*", "https://www.pleasedontblockchess.com/*", "https://*.lichess.org/*" ],
+      "resources": [ "stockfish/stockfish-17-lite-single.js", "stockfish/stockfish-17-lite-single.wasm", "show-review-modal.css" ]
+   } ]
+}

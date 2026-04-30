@@ -1,0 +1,72 @@
+.chess-assistant-review-modal-background {
+  display: grid;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.chess-assistant-review-modal {
+  position: absolute;
+  width: 640px;
+  place-self: center;
+  color: rgba(255, 255, 255, 0.85);
+  background: #262421;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 16px;
+  direction: __MSG_@@bidi_dir__;
+}
+
+.chess-assistant-review-modal-heading {
+  width: 640px;
+  margin: -16px -16px 16px -16px;
+  padding: 16px;
+  background: hsla(0, 0%, 100%, 0.1);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.chess-assistant-review-modal-close {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  background: transparent;
+  border: 0;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.6);
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.chess-assistant-review-modal-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.chess-assistant-review-modal-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.chess-assistant-review-modal-button {
+  font-weight: 500;
+  padding: 9px 18px;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=show-review-modal.css.map */

@@ -1,0 +1,27 @@
+.ACP-piece,
+.ACP.piece,
+.ACP.piece.our-attacker,
+.ACP.piece.their-attacker,
+.ACP.piece.red-background,
+.ACP.piece.green-background,
+.ACP.piece.yellow-background,
+.ACP.piece.red-yellow-background,
+.ACP.piece.green-yellow-background,
+.highlight {
+  display: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+#ACP-control-panel {
+  display: none !important;
+}
+
+.board-layout-main #ACP-control-panel,
+aside #ACP-control-panel {
+  display: none !important;
+}
+
+.player-component .player-clock {
+  position: relative !important;
+}

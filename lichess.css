@@ -1,0 +1,545 @@
+.square-11 {
+  transform: translateY(700%);
+}
+
+.orientation-black .square-11 {
+  transform: translate(700%);
+}
+
+.square-21 {
+  transform: translate(100%, 700%);
+}
+
+.orientation-black .square-21 {
+  transform: translate(600%);
+}
+
+.square-31 {
+  transform: translate(200%, 700%);
+}
+
+.orientation-black .square-31 {
+  transform: translate(500%);
+}
+
+.square-41 {
+  transform: translate(300%, 700%);
+}
+
+.orientation-black .square-41 {
+  transform: translate(400%);
+}
+
+.square-51 {
+  transform: translate(400%, 700%);
+}
+
+.orientation-black .square-51 {
+  transform: translate(300%);
+}
+
+.square-61 {
+  transform: translate(500%, 700%);
+}
+
+.orientation-black .square-61 {
+  transform: translate(200%);
+}
+
+.square-71 {
+  transform: translate(600%, 700%);
+}
+
+.orientation-black .square-71 {
+  transform: translate(100%);
+}
+
+.square-81 {
+  transform: translate(700%, 700%);
+}
+
+.orientation-black .square-81 {
+  transform: translate(0);
+}
+
+.square-12 {
+  transform: translateY(600%);
+}
+
+.orientation-black .square-12 {
+  transform: translate(700%, 100%);
+}
+
+.square-22 {
+  transform: translate(100%, 600%);
+}
+
+.orientation-black .square-22 {
+  transform: translate(600%, 100%);
+}
+
+.square-32 {
+  transform: translate(200%, 600%);
+}
+
+.orientation-black .square-32 {
+  transform: translate(500%, 100%);
+}
+
+.square-42 {
+  transform: translate(300%, 600%);
+}
+
+.orientation-black .square-42 {
+  transform: translate(400%, 100%);
+}
+
+.square-52 {
+  transform: translate(400%, 600%);
+}
+
+.orientation-black .square-52 {
+  transform: translate(300%, 100%);
+}
+
+.square-62 {
+  transform: translate(500%, 600%);
+}
+
+.orientation-black .square-62 {
+  transform: translate(200%, 100%);
+}
+
+.square-72 {
+  transform: translate(600%, 600%);
+}
+
+.orientation-black .square-72 {
+  transform: translate(100%, 100%);
+}
+
+.square-82 {
+  transform: translate(700%, 600%);
+}
+
+.orientation-black .square-82 {
+  transform: translateY(100%);
+}
+
+.square-13 {
+  transform: translateY(500%);
+}
+
+.orientation-black .square-13 {
+  transform: translate(700%, 200%);
+}
+
+.square-23 {
+  transform: translate(100%, 500%);
+}
+
+.orientation-black .square-23 {
+  transform: translate(600%, 200%);
+}
+
+.square-33 {
+  transform: translate(200%, 500%);
+}
+
+.orientation-black .square-33 {
+  transform: translate(500%, 200%);
+}
+
+.square-43 {
+  transform: translate(300%, 500%);
+}
+
+.orientation-black .square-43 {
+  transform: translate(400%, 200%);
+}
+
+.square-53 {
+  transform: translate(400%, 500%);
+}
+
+.orientation-black .square-53 {
+  transform: translate(300%, 200%);
+}
+
+.square-63 {
+  transform: translate(500%, 500%);
+}
+
+.orientation-black .square-63 {
+  transform: translate(200%, 200%);
+}
+
+.square-73 {
+  transform: translate(600%, 500%);
+}
+
+.orientation-black .square-73 {
+  transform: translate(100%, 200%);
+}
+
+.square-83 {
+  transform: translate(700%, 500%);
+}
+
+.orientation-black .square-83 {
+  transform: translateY(200%);
+}
+
+.square-14 {
+  transform: translateY(400%);
+}
+
+.orientation-black .square-14 {
+  transform: translate(700%, 300%);
+}
+
+.square-24 {
+  transform: translate(100%, 400%);
+}
+
+.orientation-black .square-24 {
+  transform: translate(600%, 300%);
+}
+
+.square-34 {
+  transform: translate(200%, 400%);
+}
+
+.orientation-black .square-34 {
+  transform: translate(500%, 300%);
+}
+
+.square-44 {
+  transform: translate(300%, 400%);
+}
+
+.orientation-black .square-44 {
+  transform: translate(400%, 300%);
+}
+
+.square-54 {
+  transform: translate(400%, 400%);
+}
+
+.orientation-black .square-54 {
+  transform: translate(300%, 300%);
+}
+
+.square-64 {
+  transform: translate(500%, 400%);
+}
+
+.orientation-black .square-64 {
+  transform: translate(200%, 300%);
+}
+
+.square-74 {
+  transform: translate(600%, 400%);
+}
+
+.orientation-black .square-74 {
+  transform: translate(100%, 300%);
+}
+
+.square-84 {
+  transform: translate(700%, 400%);
+}
+
+.orientation-black .square-84 {
+  transform: translateY(300%);
+}
+
+.square-15 {
+  transform: translateY(300%);
+}
+
+.orientation-black .square-15 {
+  transform: translate(700%, 400%);
+}
+
+.square-25 {
+  transform: translate(100%, 300%);
+}
+
+.orientation-black .square-25 {
+  transform: translate(600%, 400%);
+}
+
+.square-35 {
+  transform: translate(200%, 300%);
+}
+
+.orientation-black .square-35 {
+  transform: translate(500%, 400%);
+}
+
+.square-45 {
+  transform: translate(300%, 300%);
+}
+
+.orientation-black .square-45 {
+  transform: translate(400%, 400%);
+}
+
+.square-55 {
+  transform: translate(400%, 300%);
+}
+
+.orientation-black .square-55 {
+  transform: translate(300%, 400%);
+}
+
+.square-65 {
+  transform: translate(500%, 300%);
+}
+
+.orientation-black .square-65 {
+  transform: translate(200%, 400%);
+}
+
+.square-75 {
+  transform: translate(600%, 300%);
+}
+
+.orientation-black .square-75 {
+  transform: translate(100%, 400%);
+}
+
+.square-85 {
+  transform: translate(700%, 300%);
+}
+
+.orientation-black .square-85 {
+  transform: translateY(400%);
+}
+
+.square-16 {
+  transform: translateY(200%);
+}
+
+.orientation-black .square-16 {
+  transform: translate(700%, 500%);
+}
+
+.square-26 {
+  transform: translate(100%, 200%);
+}
+
+.orientation-black .square-26 {
+  transform: translate(600%, 500%);
+}
+
+.square-36 {
+  transform: translate(200%, 200%);
+}
+
+.orientation-black .square-36 {
+  transform: translate(500%, 500%);
+}
+
+.square-46 {
+  transform: translate(300%, 200%);
+}
+
+.orientation-black .square-46 {
+  transform: translate(400%, 500%);
+}
+
+.square-56 {
+  transform: translate(400%, 200%);
+}
+
+.orientation-black .square-56 {
+  transform: translate(300%, 500%);
+}
+
+.square-66 {
+  transform: translate(500%, 200%);
+}
+
+.orientation-black .square-66 {
+  transform: translate(200%, 500%);
+}
+
+.square-76 {
+  transform: translate(600%, 200%);
+}
+
+.orientation-black .square-76 {
+  transform: translate(100%, 500%);
+}
+
+.square-86 {
+  transform: translate(700%, 200%);
+}
+
+.orientation-black .square-86 {
+  transform: translateY(500%);
+}
+
+.square-17 {
+  transform: translateY(100%);
+}
+
+.orientation-black .square-17 {
+  transform: translate(700%, 600%);
+}
+
+.square-27 {
+  transform: translate(100%, 100%);
+}
+
+.orientation-black .square-27 {
+  transform: translate(600%, 600%);
+}
+
+.square-37 {
+  transform: translate(200%, 100%);
+}
+
+.orientation-black .square-37 {
+  transform: translate(500%, 600%);
+}
+
+.square-47 {
+  transform: translate(300%, 100%);
+}
+
+.orientation-black .square-47 {
+  transform: translate(400%, 600%);
+}
+
+.square-57 {
+  transform: translate(400%, 100%);
+}
+
+.orientation-black .square-57 {
+  transform: translate(300%, 600%);
+}
+
+.square-67 {
+  transform: translate(500%, 100%);
+}
+
+.orientation-black .square-67 {
+  transform: translate(200%, 600%);
+}
+
+.square-77 {
+  transform: translate(600%, 100%);
+}
+
+.orientation-black .square-77 {
+  transform: translate(100%, 600%);
+}
+
+.square-87 {
+  transform: translate(700%, 100%);
+}
+
+.orientation-black .square-87 {
+  transform: translateY(600%);
+}
+
+.square-18 {
+  transform: translate(0);
+}
+
+.orientation-black .square-18 {
+  transform: translate(700%, 700%);
+}
+
+.square-28 {
+  transform: translate(100%);
+}
+
+.orientation-black .square-28 {
+  transform: translate(600%, 700%);
+}
+
+.square-38 {
+  transform: translate(200%);
+}
+
+.orientation-black .square-38 {
+  transform: translate(500%, 700%);
+}
+
+.square-48 {
+  transform: translate(300%);
+}
+
+.orientation-black .square-48 {
+  transform: translate(400%, 700%);
+}
+
+.square-58 {
+  transform: translate(400%);
+}
+
+.orientation-black .square-58 {
+  transform: translate(300%, 700%);
+}
+
+.square-68 {
+  transform: translate(500%);
+}
+
+.orientation-black .square-68 {
+  transform: translate(200%, 700%);
+}
+
+.square-78 {
+  transform: translate(600%);
+}
+
+.orientation-black .square-78 {
+  transform: translate(100%, 700%);
+}
+
+.square-88 {
+  transform: translate(700%);
+}
+
+.orientation-black .square-88 {
+  transform: translateY(700%);
+}
+
+.ACP.piece.red-background {
+  z-index: 0;
+}
+
+.ACP.piece.green-background {
+  z-index: 0;
+}
+
+.ACP.piece.yellow-background {
+  z-index: 0;
+}
+
+.ACP.piece.red-yellow-background {
+  z-index: 0;
+}
+
+.ACP.piece.green-yellow-background {
+  z-index: 0;
+}
+
+.ACP.piece.their-attacker {
+  z-index: 0;
+}
+
+.ACP.piece.our-attacker {
+  z-index: 0;
+}
+
+.ACP-piece {
+  z-index: 2;
+}
+
+/*# sourceMappingURL=lichess.css.map */
