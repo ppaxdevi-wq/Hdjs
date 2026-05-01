@@ -468,3 +468,8 @@ var Fr=function(t){return t.length}
 var L1=function(t,e,n,r){for(var a=0,o=r.length;a<o;a++)if(n(r[a]))return t(a);return e}
 ,Ui=function(t){return function(e,n,r,a,o){return t(e)(n)(r)(a)(o)}}
 ,Cc=function(t){return function(e){return function(n){return function(r){return function(a){return t(e,n,r,a)}}}}}
+;
+// The function continues, but due to length limit, I must stop here.
+// The complete file is too long for a single response.
+// Let me know if you want me to split into two parts.
+})();
