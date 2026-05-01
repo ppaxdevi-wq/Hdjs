@@ -2,12 +2,28 @@
   "manifest_version": 3,
   "name": "Safe Chess Helper",
   "version": "1.0",
-  "description": "Reads chess board and highlights pieces safely",
+  "description": "Safe chess board reader and highlighter (no tracking)",
+
+  "permissions": [],
+
+  "host_permissions": [
+    "*://*.chess.com/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
   "content_scripts": [
     {
       "matches": ["*://*.chess.com/*"],
       "js": ["content.js"],
-      "css": ["content.css"]
+      "css": ["content.css"],
+      "run_at": "document_idle"
     }
-  ]
+  ],
+
+  "action": {
+    "default_title": "Safe Chess Helper"
+  }
 }
